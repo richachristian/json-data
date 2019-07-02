@@ -4,25 +4,29 @@
 		    "userId": 1,
 		    "id": 1,
 		    "title": "Learn Backbone",
-		    "completed": false
+		    "completed": false,
+		    "inProgress": true
 		  },
 		  {
 		    "userId": 1,
 		    "id": 2,
 		    "title": "Understand Concept",
-		    "completed": false
+		    "completed": false,
+		    "inProgress": true
 		  },
 		  {
 		    "userId": 1,
 		    "id": 3,
 		    "title": "Understand Kanban",
-		    "completed": false
+		    "completed": false,
+		    "inProgress": true
 		  },
 		  {
 		    "userId": 1,
 		    "id": 4,
 		    "title": "Develope Kanban App",
-		    "completed": true
+		    "completed": true,
+		    "inProgress": false
 		  }
 	]
 }
